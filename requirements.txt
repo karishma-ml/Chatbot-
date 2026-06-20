@@ -1,0 +1,5 @@
+Install Ollama from browser (https://ollama.com/) for windows.
+
+In command prompt run-
+1. ollama pull llama3.2 
+2. ollama run llama3.2
