@@ -8,4 +8,4 @@ An intelligent chatbot built with Python, Streamlit, and Ollama (Llama 3.2) that
  - Interactive Help section
 
 ## Application Preview
-![Application Overview](images/application-overview.png)
+![Application Overview](application-overview.png)
